@@ -1,8 +1,8 @@
 h1 {
   text-align: center;
-  color: antiquewhite;
-  background-color: rgb(82, 76, 68);
-  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #eb842b;
+  background-color: #b9c297;
+  font-family: monospace;
   padding: 20px 20px;
   margin: 0;
 }
@@ -12,7 +12,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(82, 76, 68);
+  background-color: #b9c297;
 }
 
 nav li {
@@ -25,15 +25,15 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: monospace;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #a97338;
 }
 
 .active {
-  background-color: #04aa6d;
+  background-color: #bc6a68;
 }
 
 img {
@@ -49,13 +49,13 @@ h2,
 h3,
 p {
   text-align: center;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: monospace;
 }
 
 body {
-  background-color: azure;
+  background-color: #f6eae5;
 }
 
 li {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: monospace;
 }
